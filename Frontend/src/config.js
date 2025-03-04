@@ -1,3 +1,3 @@
-const config = "http://localhost:4001";
+const config = "https://easymed-backend-tunj.onrender.com";
 
 export default config;
