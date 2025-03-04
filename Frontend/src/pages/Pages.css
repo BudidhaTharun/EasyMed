@@ -1,0 +1,12 @@
+.page {
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .page p {
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+  
